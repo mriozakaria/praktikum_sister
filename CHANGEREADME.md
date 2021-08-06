@@ -1,5 +1,5 @@
 # praktikum_sister
-*Uas Praktikum Sister*
+Uas Praktikum Sister
 
 *Kelompok 5 Anggota :
 
